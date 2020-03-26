@@ -1,4 +1,3 @@
-## Welcome to my GitHub Pages
 
 ### Here you are some samples of my code:
 
