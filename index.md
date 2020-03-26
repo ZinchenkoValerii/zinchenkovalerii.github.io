@@ -1,5 +1,5 @@
-## JS tips
-I'd like to share
+## Become ready to tech interview
+JS tips, algorithms, task resolving approaches and everything I just want to share
 
 ### Here you are some samples of my code:
 
